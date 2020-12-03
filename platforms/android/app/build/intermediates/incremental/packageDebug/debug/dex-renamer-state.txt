@@ -1,0 +1,4 @@
+#Tue Jul 23 15:27:39 GMT-03:00 2019
+base.0=C\:\\Users\\Eu\\bunnyjump\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
